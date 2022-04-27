@@ -3,3 +3,9 @@ List:
 
 # Some have: "Unlimited slow data"
 This is all I Need!
+
+## Verified:
+- Tello
+
+## blacklist:
+- Hello Mobile
