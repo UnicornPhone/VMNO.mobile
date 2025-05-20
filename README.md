@@ -1,4 +1,4 @@
-# MVNO.mobile
+# MVNO = Mobile Virtual Network Operator.graph
 sch:
 - https://www.google.com/search?q=mobile+mvno
 - https://www.google.com/search?q=mvno+list
